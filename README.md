@@ -9,7 +9,7 @@
   </div>
 <div align="center">
   
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ER==erickovisck&layout=compact&langs_count=7&theme=dracula">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDUARDONEVES120206&layout=compact&langs_count=7&theme=dracula">
 
 
   
@@ -63,11 +63,11 @@
 ## Contacts:
 
 <div>
-  <a href="https://wa.me/5511998652718">
+  <a href="https://wa.me/5511950376130">
     <img src="https://img.shields.io/badge/WhatsApp-%25C4%2591B9F9.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
   &nbsp;
-  <!-- <a href="https://www.linkedin.com/in/erick-fernando-5227952b4/"> -->
+  <a href="https://www.linkedin.com/in/erick-fernando-martins-santos-766021272/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
