@@ -5,7 +5,7 @@
 
 
 <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">
-  <p>I'm passionate about exploring technology to tackle intriguing challenges. As an amateur developer, I find joy in unraveling puzzles through creative solutions. With a growing interest in both technical skills and effective collaboration, I'm learning about team dynamics, basic project coordination, software exploration, and gradual improvement. My approach integrates beginner-friendly practices, ensuring a steady learning curve and a passion for progress. 🚀</p>
+  <p>I’m an Odoo Developer with experience at Superglass, where I have been enhancing the company’s ERP system for the past four months as a trainee. My work involves developing and customizing Odoo modules and utilizing JavaScript to improve functionality and user experience. I’m passionate about leveraging technology to streamline business processes and deliver effective solutions. I’m eager to expand my skills and contribute to innovative projects in the tech industry. 🚀</p>
   </div>
 <div align="center">
   
