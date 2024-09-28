@@ -9,7 +9,7 @@
   </div>
 <div align="center">
   
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDUARDONEVES120206&layout=compact&langs_count=7&theme=dracula">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickovisck&layout=compact&langs_count=7&theme=dracula">
 
 
   
