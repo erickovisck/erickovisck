@@ -48,8 +48,9 @@ Results-driven Junior Software Developer with hands-on experience customizing an
 
 ### 📊 Github Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickovisck&layout=compact&langs_count=7&theme=purple&title_color=714B67&icon_color=714B67&text_color=4a4a4a&bg_color=fdfdfd" alt="Top Languages">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickovisck&show_icons=true&theme=purple&title_color=714B67&icon_color=714B67&text_color=4a4a4a&bg_color=fdfdfd" alt="GitHub Stats">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=erickovisck&layout=compact&theme=purple" alt="Top Languages">
+  
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=erickovisck&show_icons=true&theme=purple" alt="GitHub Stats">
 </div>
 
 <br>
