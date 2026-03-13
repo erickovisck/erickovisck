@@ -1,78 +1,74 @@
+<div align="center">
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo Specialist">
+  <h1>Erick Santos</h1>
+  <p><b>Junior Software Developer | Odoo Specialist | Python & JavaScript</b></p>
+</div>
+
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=skyblue&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Erick+Fernando;I'm+19+years+old;I+study+at+UMC;I+work+at+Tatuapé;;Welcome%3A)](https://git.io/typing-svg)
-<br><br>
-
-
-<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">
-  <p>I’m an execution-oriented Odoo Junior Developer currently working at Tatuapé Trend Office, with previous experience at Superglass [1, 2]. My work focuses on building, customizing, and maintaining business-critical ERP solutions, including API integrations and complex data migrations [2]. I specialize in Python, JavaScript, and PostgreSQL, leveraging these technologies to streamline business processes, optimize system performance, and deliver effective solutions [1, 2]. I’m eager to continue expanding my skills and contributing to high-impact projects in the tech industry. 🚀</p>
-  </div>
 <div align="center">
-  
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickovisck&layout=compact&langs_count=7&theme=dracula">
-
-
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=714B67&center=true&vCenter=true&width=1000&lines=Building+Custom+Odoo+Modules;Automating+Business+Processes;Integrating+Banking+APIs;Driving+Efficiency+with+Technology" alt="Typing SVG" />
 </div>
 
+<br>
 
- &nbsp;
- &nbsp;
- 
-#### Programming Languages & Frameworks:
+### 🚀 About Me
+Results-driven Junior Software Developer with hands-on experience customizing and developing modules for the **Odoo ERP ecosystem**. Proficient in Python, JavaScript, and PostgreSQL, with a proven track record of integrating banking APIs, migrating legacy systems, and automating business processes.
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;    
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)&nbsp;
+- 🛠️ Currently developing custom Odoo modules at **Tatuapé Trend Office**.
+- 📈 Increased seller efficiency by **30%** at Superglass through custom software solutions.
+- 🎓 Studying Software Analysis and Development at **UMC**.
 
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<br>
 
+### 🛠️ Technical Stack
 
-#### Secondary Stack:
+<table>
+  <tr>
+    <td align="center" width="250">
+      <b>ERP & Frameworks</b><br><br>
+      <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo">
+      <img src="https://img.shields.io/badge/Odoo.sh-714B67?style=flat-square" alt="Odoo.sh">
+    </td>
+    <td align="center" width="250">
+      <b>Languages</b><br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+    </td>
+    <td align="center" width="250">
+      <b>Databases</b><br><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+    </td>
+  </tr>
+</table>
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;  
+<br>
 
-#### Databases:
+### 📊 Github Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickovisck&layout=compact&langs_count=7&theme=purple&title_color=714B67&icon_color=714B67&text_color=4a4a4a&bg_color=fdfdfd" alt="Top Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickovisck&show_icons=true&theme=purple&title_color=714B67&icon_color=714B67&text_color=4a4a4a&bg_color=fdfdfd" alt="GitHub Stats">
+</div>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-[![SQLite3](https://img.shields.io/badge/SQLite3-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)&nbsp;
+<br>
 
-
-
-#### Workstation Tools:
-
-<a href="https://code.visualstudio.com/">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-</a>
-&nbsp;
-<a href="https://desktop.github.com/">
-  <img src="https://img.shields.io/badge/GitHub%20Desktop-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop">
-</a>
-&nbsp;
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-<a href="https://www.phpmyadmin.net/">
-  <img src="https://img.shields.io/badge/phpMyAdmin-%2343853D.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" style="background-color: orange;">
-</a>
-
-
-&nbsp;
-&nbsp;
-
-## Contacts:
-
-<div>
-  <a href="https://wa.me/5511950376130">
-    <img src="https://img.shields.io/badge/WhatsApp-%25C4%2591B9F9.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-  &nbsp;
+### 📫 Connect with me
+<div align="left">
   <a href="https://www.linkedin.com/in/erick-fernando-martins-santos-766021272/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:erickmartinslima3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://wa.me/5511950376130">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </div>
 
-</div>&nbsp;&nbsp;
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Focused_on-Excellence-714B67?style=flat-square" alt="Focus">
+</div>
